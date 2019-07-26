@@ -57,6 +57,6 @@
       
   </repositories>
   <build>
-         <defaultGoal>compile</defaultGoal>         
+         <defaultGoal>depoly</defaultGoal>         
   </build>         
 </project>
