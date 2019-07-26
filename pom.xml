@@ -49,12 +49,12 @@
             <name>Team Nexus Release Repository</name>  
             <url>http://nexus.jd.surenpi.com/repository/maven-releases/</url>  
         </repository>  
-        <snapshotRepository>  
+        <repository>  
             <id>nexus-snapshot</id>  
             <name>Team Nexus Snapshot Repository</name>  
             <url>http://nexus.jd.surenpi.com/repository/maven-snapshots/</url>  
             <uniqueVersion>false</uniqueVersion>  
-        </snapshotRepository> 
+        </repository> 
       
   </repositories>  
 </project>
