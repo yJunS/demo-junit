@@ -38,7 +38,7 @@
 
     </dependencies>
          
-    <distributionManagement> 
+    <repositories>  
     <!-- <repository> 
       <id>thirdparty</id> 
        <url>http://xx:8081/nexus/content/repositories/thirdparty</url> 
@@ -56,5 +56,5 @@
             <uniqueVersion>false</uniqueVersion>  
         </snapshotRepository> 
       
-  </distributionManagement> 
+  </repositories>  
 </project>
