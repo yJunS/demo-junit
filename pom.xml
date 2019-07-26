@@ -55,5 +55,8 @@
             <url>http://nexus.jd.surenpi.com/repository/maven-snapshots/</url>  
         </repository> 
       
-  </repositories>  
+  </repositories>
+  <build>
+         <defaultGoal>compile</defaultGoal>         
+  </build>         
 </project>
